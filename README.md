@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Backend with Node.js**
 
-- 👨‍💻 All of my projects are available at [my acount github](https://github.com/mahmood-mohamed)
-
 - 💬 Ask me about **html, css, javascript, react**
 
 - 📫 How to reach me **mhmooud35@gmail.com**
