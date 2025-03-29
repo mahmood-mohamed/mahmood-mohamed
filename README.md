@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend with Node.js**
 
-- 💬 Ask me about **html, css, javascript, react**
+- 💬 Ask me about **html, css, javascript, react.js**
 
 - 📫 How to reach me **mhmooud35@gmail.com**
 
