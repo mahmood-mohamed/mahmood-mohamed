@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mhmooud35@gmail.com**
 
-- 📄 Know about my experiences [my cv](https://drive.google.com/file/d/19_cQahrzcJze55qNf3kVbaK6xmr1XUt5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19_cQahrzcJze55qNf3kVbaK6xmr1XUt5/view?usp=sharing)
 
 - ⚡ Fun fact **I refactor my code more than I refactor my life.**
 
