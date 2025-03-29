@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Backend with Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahmood-mohamed](https://github.com/mahmood-mohamed)
+- 👨‍💻 All of my projects are available at [my acount github](https://github.com/mahmood-mohamed)
 
 - 💬 Ask me about **html, css, javascript, react**
 
 - 📫 How to reach me **mhmooud35@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19_cQahrzcJze55qNf3kVbaK6xmr1XUt5/view?usp=sharing](https://drive.google.com/file/d/19_cQahrzcJze55qNf3kVbaK6xmr1XUt5/view?usp=sharing)
+- 📄 Know about my experiences [my cv](https://drive.google.com/file/d/19_cQahrzcJze55qNf3kVbaK6xmr1XUt5/view?usp=sharing)
 
 - ⚡ Fun fact **I refactor my code more than I refactor my life.**
 
