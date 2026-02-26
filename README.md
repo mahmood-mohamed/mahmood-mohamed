@@ -7,13 +7,13 @@
 
 - 📫 How to reach me **mhmooud35@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1M7qjjxebDylQQPAFRdhmVjKXek4yPY1X/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1M7qjjxebDylQQPAFRdhmVjKXek4yPY1X/view?usp=sharing)
 
 - ⚡ Fun fact **I refactor my code more than I refactor my life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mahmoud-mo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ mahmoud-mohamed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahmoud-mo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ mahmoud-mohamed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
