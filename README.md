@@ -1,29 +1,109 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
-<h3 align="center">Frontend Developer | React.js | Next.js</h3>
 
-- 🌱 I’m currently learning **Backend with Node.js**
-
-- 💬 Ask me about **html, css, javascript, react.js**
-
-- 📫 How to reach me **mhmooud35@gmail.com**
-
-- 📄 Know about my experiences [CV(https://drive.google.com/file/d/1MB6i5jR8pngD475-26FFXJgQMA-2Zb5b/view?usp=sharing)
-
-- ⚡ Fun fact **I refactor my code more than I refactor my life.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-mo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ mahmoud-mohamed" height="30" width="40" /></a>
+<p align="center">
+Frontend Developer specializing in React & Next.js
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+Building modern, scalable and responsive web applications
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmood-mohamed&show_icons=true&theme=synthwave&title_color=fe742a&text_color=ffffff&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="mahmood-mohamed" /></p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Apps;Clean+Code+Lover&center=true&width=500&height=45">
+</p>
 
+---
 
+# 👨‍💻 About Me
 
-<!---
-mahmood-mohamed/mahmood-mohamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 💻 Frontend Developer focused on **modern web applications**
+* ⚛️ Specialized in **React.js and Next.js**
+* 🌱 Currently learning **Backend with Nest.js**
+* 🎯 Interested in **performance, clean architecture and UI/UX**
+* 💬 Ask me about **JavaScript, React, Next.js, TailwindCSS**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mahmoud-mo">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mhmooud35@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌦 Weatherly – Weather Forecast Dashboard
+
+Modern multilingual weather dashboard with real-time forecasts, historical weather data and astronomy information.
+
+🔗 [Live Demo](https://weatherly-orpin-beta.vercel.app/en)   🔗 [Repository](https://github.com/mahmood-mohamed/weatherly)
+
+---
+
+### 🛒 FreshCart – E-Commerce Web App
+
+Modern e-commerce platform built with React featuring product browsing, cart management and responsive UI.
+
+🔗 [Live Demo](https://mahmood-mohamed.github.io/freshcart/)   🔗 [Repository](https://github.com/mahmood-mohamed/freshcart)
+
+---
+
+### 🍽 Recipes – Food Recipes Web App
+
+Interactive recipes web application built with React that allows users to explore different meals, view detailed recipe information, and browse food categories with a responsive user interface.  
+
+🔗 [Live Demo](https://mahmood-mohamed.github.io/recipesReact/)   🔗 [Repository](https://github.com/mahmood-mohamed/recipesReact)
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,mui,sass,redux,jest" alt="frontend tech stack"/>
+
+</p>
+
+### Backend & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,git,postman" alt="backend and tools"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahmood-mohamed&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmood-mohamed&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmood-mohamed&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmood-mohamed&theme=tokyo-night"/>
+
+---
+
+⭐ From **Mahmoud Mohamed**
