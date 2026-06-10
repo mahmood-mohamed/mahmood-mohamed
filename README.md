@@ -42,19 +42,25 @@ Building modern, scalable and responsive web applications
 
 # 🚀 Featured Projects
 
-### 🌦 Weatherly – Weather Forecast Dashboard
-
-Modern multilingual weather dashboard with real-time forecasts, historical weather data and astronomy information.
-
-🔗 [Live Demo](https://weatherly-orpin-beta.vercel.app/en)   🔗 [Repository](https://github.com/mahmood-mohamed/weatherly)
-
----
-
 ### 🛒 FreshCart – E-Commerce Web App
 
 Modern e-commerce platform built with React featuring product browsing, cart management and responsive UI.
 
 🔗 [Live Demo](https://mahmood-mohamed.github.io/freshcart/)   🔗 [Repository](https://github.com/mahmood-mohamed/freshcart)
+
+---
+
+### 📋 TaskFlow – Project Management & Todo Web App
+A sleek, modern task management application built with React designed to streamline daily productivity. It features dynamic task creation, status tracking, and category filtering with a responsive, user-friendly interface.
+🔗 [Live Demo](https://taskflow-mh.vercel.app/) 🔗 [Repository]()
+
+---
+
+### 🌦 Weatherly – Weather Forecast Dashboard
+
+Modern multilingual weather dashboard with real-time forecasts, historical weather data and astronomy information.
+
+🔗 [Live Demo](https://weatherly-orpin-beta.vercel.app/en)   🔗 [Repository](https://github.com/mahmood-mohamed/weatherly)
 
 ---
 
