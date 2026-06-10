@@ -52,7 +52,8 @@ Modern e-commerce platform built with React featuring product browsing, cart man
 
 ### 📋 TaskFlow – Project Management & Todo Web App
 A sleek, modern task management application built with React designed to streamline daily productivity. It features dynamic task creation, status tracking, and category filtering with a responsive, user-friendly interface.
-🔗 [Live Demo](https://taskflow-mh.vercel.app/) 🔗 [Repository]()
+
+🔗 [Live Demo](https://taskflow-mh.vercel.app/) 🔗 [Front Repository](https://github.com/mahmood-mohamed/taskflow-frontend) 🔗 [Back Repository](https://github.com/mahmood-mohamed/taskflow-backend)
 
 ---
 
